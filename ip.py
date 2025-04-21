@@ -8,7 +8,4 @@ def word_length(word):
         count += 1++
     print(count)
 
-word_length("hello world")
-
-        
-shikhar i god 
+word_length("hello world"
